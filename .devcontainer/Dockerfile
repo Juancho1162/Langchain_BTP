@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-ARG VARIANT="20"
+ARG VARIANT="20.9.0"
 FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}
 ARG CAPVER="latest"
 
