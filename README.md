@@ -1,2 +1,1 @@
-# Langchain_BTP
-Langchain in BTP with SAP HANA Vector DB
+# Learning SAP CAP and JS
